@@ -1,0 +1,7 @@
+DAD7E8
+55418E
+FFA500
+E6E5F2
+
+små ikoner:
+9897AD

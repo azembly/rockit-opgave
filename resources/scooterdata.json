@@ -1,0 +1,17 @@
+{
+    "scooter": {
+        "id": "d1c987c1-937f-4482-bc92-542d4b9a3d26",
+        "user": "Whitney Leon",
+        "user_phone": "+91 6787978287",
+        "locked": true,
+        "scooter_status" : {
+            "distance": 17823,
+            "battery": 100,
+            "avrg_speed": 45,
+            "updated" : {
+                "update_status": true,
+                "update_date": "27 Sept 2020 14:28:00 GMT"
+            }
+        }
+    }
+}
